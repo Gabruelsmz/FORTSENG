@@ -1,0 +1,195 @@
+/*
+	@name frame_2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(0,76,100,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 100px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_inicio {
+	top: 29px;
+	left: 68px;
+	width: 112px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#perfil {
+	top: 29px;
+	left: 204px;
+	width: 111px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_login {
+	top: 29px;
+	left: 1586px;
+	width: 116px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_cadastro {
+	top: 29px;
+	left: 1726px;
+	width: 177px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_2 {
+	top: 1010px;
+	left: 0px;
+	width: 1920px;
+	height: 70px;
+	background:rgba(255,255,255,1);
+}
+
+
+#telefone {
+	top: 1030px;
+	left: 1530px;
+	width: 122px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#quem_somos_ {
+	top: 1033px;
+	left: 1713px;
+	width: 151px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#sac {
+	top: 1030px;
+	left: 1425px;
+	width: 69px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: 208px;
+	left: 0px;
+	width: 1920px;
+	height: 345px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: -o-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: -moz-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: -ms-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+}
+
+
+#rectangle_7 {
+	top: 230px !important;
+	position: absolute !important;
+	left: 735px;
+	width: 450px;
+	height: 300px;
+	background:url(skins/rectangle_7.png);
+	background-size:cover;
+}
+
+
+#rectangle_7_ek1 {
+	top: 230px !important;
+	position: absolute !important;
+	left: 34px;
+	width: 450px;
+	height: 300px;
+	background:url(skins/rectangle_7_ek1.png);
+	background-size:cover;
+}
+
+
+#_rectangle_7_ek2 {
+	top: 230px !important;
+	position: absolute !important;
+	left: 1436px;
+	width: 450px;
+	height: 300px;
+	background:url(skins/_rectangle_7_ek2.png);
+	background-size:cover;
+}
+
+
+#a_associa__o_capixaba_contra_do_c_ncer_infantil__acacci__oferece__s_crian_as_e_aos_adolescentes_portadores_de_c_ncer__bem_como__s_suas_fam_lias__um_programa_de_assist_ncia_integral_ {
+	top: 590px;
+	left: -7px;
+	width: 1945px;
+	height: 318px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 40px;
+	text-align: center;
+	line-height: 45px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

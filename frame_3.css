@@ -1,0 +1,319 @@
+/*
+	@name frame_3
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(0,76,100,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 100px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_inicio {
+	top: 29px;
+	left: 68px;
+	width: 112px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#perfil {
+	top: 29px;
+	left: 204px;
+	width: 111px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_login {
+	top: 29px;
+	left: 1586px;
+	width: 116px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cadastro {
+	top: 29px;
+	left: 1726px;
+	width: 177px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_2 {
+	top: 1010px;
+	left: 0px;
+	width: 1920px;
+	height: 70px;
+	background:rgba(255,255,255,1);
+}
+
+
+#telefone {
+	top: 1030px;
+	left: 1530px;
+	width: 122px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#quem_somos_ {
+	top: 1033px;
+	left: 1713px;
+	width: 151px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#sac {
+	top: 1030px;
+	left: 1425px;
+	width: 69px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_8 {
+	top: 219px;
+	left: 695px;
+	width: 580px;
+	height: 642px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	-ms-box-shadow:0px 0px 50px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 0px 50px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 0px 50px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 0px 50px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 0px 50px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#nome_completo {
+	top: 272px;
+	left: 715px;
+	width: 330px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 35px;
+	text-align: center;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#cpf_cnpj {
+	top: 384px;
+	left: 671px;
+	width: 330px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 35px;
+	text-align: center;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#e_mail {
+	top: 496px;
+	left: 641px;
+	width: 330px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 35px;
+	text-align: center;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#senha {
+	top: 608px;
+	left: 639px;
+	width: 330px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 35px;
+	text-align: center;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 316px;
+	left: 752px;
+	width: 450px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_10 {
+	top: 428px;
+	left: 752px;
+	width: 450px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_11 {
+	top: 540px;
+	left: 752px;
+	width: 450px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_12 {
+	top: 652px;
+	left: 752px;
+	width: 450px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_13 {
+	top: 764px;
+	left: 752px;
+	width: 200px;
+	height: 55px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(0,139.89,184.06,1);
+}
+
+
+#rectangle_14 {
+	top: 764px;
+	left: 1002px;
+	width: 200px;
+	height: 55px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(0,139.89,184.06,1);
+}
+
+
+#_criar_conta_cliente {
+	top: 768px;
+	left: 803px;
+	width: 105px;
+	height: 58.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 17px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_criar_conta_funcionario {
+	top: 768px;
+	left: 1051px;
+	width: 109px;
+	height: 58.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 17px;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

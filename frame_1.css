@@ -1,0 +1,195 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(0,76,100,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 100px;
+	background:rgba(255,255,255,1);
+}
+
+
+#inicio {
+	top: 29px;
+	left: 68px;
+	width: 112px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#perfil {
+	top: 29px;
+	left: 204px;
+	width: 111px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_login {
+	top: 29px;
+	left: 1586px;
+	width: 116px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_cadastro {
+	top: 29px;
+	left: 1726px;
+	width: 177px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_2 {
+	top: 1010px;
+	left: 0px;
+	width: 1920px;
+	height: 70px;
+	background:rgba(255,255,255,1);
+}
+
+
+#telefone {
+	top: 1030px;
+	left: 1530px;
+	width: 122px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#quem_somos_ {
+	top: 1033px;
+	left: 1713px;
+	width: 151px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#sac {
+	top: 1030px;
+	left: 1425px;
+	width: 69px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: 208px;
+	left: 0px;
+	width: 1920px;
+	height: 345px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: -o-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: -moz-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: -ms-linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+	background: linear-gradient(-270deg , rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5) 100%);
+}
+
+
+#_rectangle_4 {
+	top: 230px !important;
+	position: absolute !important;
+	left: 735px;
+	width: 450px;
+	height: 300px;
+	background:url(skins/_rectangle_4.png);
+	background-size:cover;
+}
+
+
+#_rectangle_6 {
+	top: 230px !important;
+	position: absolute !important;
+	left: 41px;
+	width: 450px;
+	height: 300px;
+	background:url(skins/_rectangle_6.png);
+	background-size:cover;
+}
+
+
+#rectangle_5 {
+	top: 230px !important;
+	position: absolute !important;
+	left: 1429px;
+	width: 450px;
+	height: 300px;
+	background:url(skins/rectangle_5.png);
+	background-size:cover;
+}
+
+
+#o_mcdia_feliz___a_maior_campanha_do_pa_s_em_prol_de_crian_as_e_adolescentes_em_tratamento_de_c_ncer__nesse_dia__toda_a_venda_de_big_mac_realizada_nos_restaurantes_mcdonald_s_de_todo_o_pa_s__exceto_alguns_impostos____destinada_a_institui__es_que_acolhem_crian_as_e_adolescentes_com_c_ncer__aqui_no_esp_rito_santo__a_institui__o_contemplada___a_acacci___associa__o_capixaba_contra_o_c_ncer_infantil__a_fortes_apoia_essa_campanha_adquirindo_t_quetes__e_para_ampliar_essa_rede_de_solidariedade__os_lanches_comprados_s_o_distribuidos_para_institui__es_de_apoio_a_crian_as_e_adolescentes_ {
+	top: 552px;
+	left: -7px;
+	width: 1945px;
+	height: 318px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 40px;
+	text-align: center;
+	line-height: 45px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

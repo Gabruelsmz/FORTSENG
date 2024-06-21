@@ -1,0 +1,393 @@
+/*
+	@name frame_11
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_11 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(0,76,100,1);
+}
+
+
+#rectangle_25 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 100px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_inicio {
+	top: 29px;
+	left: 68px;
+	width: 112px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#perfil {
+	top: 29px;
+	left: 204px;
+	width: 111px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_login {
+	top: 29px;
+	left: 1586px;
+	width: 116px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_cadastro {
+	top: 29px;
+	left: 1726px;
+	width: 177px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_26 {
+	top: 1010px;
+	left: 0px;
+	width: 1920px;
+	height: 70px;
+	background:rgba(255,255,255,1);
+}
+
+
+#telefone {
+	top: 1030px;
+	left: 1530px;
+	width: 122px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#quem_somos_ {
+	top: 1033px;
+	left: 1713px;
+	width: 151px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#sac {
+	top: 1030px;
+	left: 1425px;
+	width: 69px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_27 {
+	opacity:0.69999998807907;
+	top: 293px;
+	left: 62px;
+	width: 700px;
+	height: 288px;
+	background:rgba(217,217,217,0.7);
+}
+
+
+#rectangle_28 {
+	opacity:0.69999998807907;
+	top: 293px;
+	left: 834px;
+	width: 700px;
+	height: 436px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(217,217,217,0.7);
+}
+
+
+#noticias {
+	top: 150px;
+	left: 775px;
+	width: 380px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 35px;
+	text-align: center;
+	line-height: 45px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_29 {
+	top: 111px !important;
+	position: absolute !important;
+	left: 62px;
+	width: 170px;
+	height: 170px;
+	background:url(skins/rectangle_29.png);
+	background-size:cover;
+}
+
+
+#rectangle_30 {
+	top: 293px !important;
+	position: absolute !important;
+	left: 62px;
+	width: 250px;
+	height: 250px;
+	background:url(skins/rectangle_30.png);
+	background-size:cover;
+}
+
+
+#rectangle_31 {
+	top: 293px !important;
+	position: absolute !important;
+	left: 834px;
+	width: 250px;
+	height: 250px;
+	background:url(skins/rectangle_31.png);
+	background-size:cover;
+}
+
+
+#o_mcdia_feliz___uma_campanha_nacional_que_destina_a_venda_de_big_macs_para_institui__es_de_apoio_a_crian_as_e_adolescentes_com_c_ncer__no_esp_rito_santo__a_acacci___a_beneficiada__a_empresa_fortes_contribui_comprando_t_quetes_e_distribuindo_os_lanches_para_outras_institui__es__a_iniciativa_ajuda_a_financiar_o_tratamento_do_c_ncer_infantil_e_traz_alegria_para_muitas_crian_as_ {
+	top: 282.5px;
+	left: 312px;
+	width: 480.5px;
+	height: 267.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#a_associa__o_capixaba_contra_o_c_ncer_infantil__acacci__lan_ou_um_novo_projeto_para_aprimorar_a_assist_ncia__s_fam_lias_afetadas_pelo_c_ncer_infantil__o_projeto_inclui_amplia__o_dos_servi_os_psicol_gicos_e_sociais__programas_educacionais_e_recreativos__e_suporte_financeiro_para_despesas_m_dicas_e_transporte__desenvolvido_ap_s_consultas_com_profissionais_de_sa_de_e {
+	top: 282.5px;
+	left: 1084px;
+	width: 480.5px;
+	height: 267.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#membros_da_comunidade__o_projeto_refor_a_o_compromisso_da_acacci_em_promover_o_bem_estar_das_crian_as_e_fam_lias_afetadas__a_iniciativa_recebeu_elogios_da_sociedade_por_seu_impacto_positivo_e_esperan_a_oferecida__s_fam_lias_enfrentando_essa_dif_cil_jornada__com_este_projeto__a_acacci_reafirma_seu_compromisso_em_oferecer_apoio_integral_e_compassivo__s_fam_lias_afetadas_pelo_c_ncer_infantil_ {
+	top: 532.5px;
+	left: 834px;
+	width: 730.5px;
+	height: 267.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#junte_se_a_n_s_e_transforme_big_macs_em_grandes_sorrisos_ {
+	top: 550px;
+	left: 62px;
+	width: 730.5px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 25px;
+	text-align: left;
+	line-height: 17px;
+	padding-top: 8px;
+	margin-top: -8px;
+	color:#000000;
+}
+
+#group_18 {
+	top: 176px;
+	left: 1717px;
+	width: 150px;
+	height: 31px;
+}
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 150px;
+	height: 29.73px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(233,111,18,1);
+}
+
+
+#clique_aqui_para_avaliar_o_projeto {
+	top: 1px;
+	left: 3px;
+	width: 151.33px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 14px;
+	text-align: center;
+	line-height: 15px;
+	color:#000000;
+}
+
+
+#rectangle_32 {
+	top: 125px;
+	left: 1732px;
+	width: 120px;
+	height: 35px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(169,169,169,1);
+}
+
+
+#seguir {
+	top: 140px;
+	left: 1744px;
+	width: 105px;
+	height: 31.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 25px;
+	text-align: center;
+	line-height: 8.5px;
+	padding-top: 16.5px;
+	margin-top: -16.5px;
+	color:#000000;
+}
+
+
+#fa_a_a_sua_avalia__o_ {
+	top: 272px;
+	left: 1683px;
+	width: 191.5px;
+	height: 34.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 17px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#star_7 {
+	top: 295px !important;
+	position: absolute !important;
+	left: 1683px;
+	width: 44px;
+	height: 45px;
+	background:url(skins/star_7.png);
+	background-size:cover;
+}
+
+
+#star_8 {
+	top: 295px !important;
+	position: absolute !important;
+	left: 1770px;
+	width: 43px;
+	height: 45px;
+	background:url(skins/star_8.png);
+	background-size:cover;
+}
+
+
+#star_9 {
+	top: 295px !important;
+	position: absolute !important;
+	left: 1727px;
+	width: 43px;
+	height: 45px;
+	background:url(skins/star_9.png);
+	background-size:cover;
+}
+
+
+#star_10 {
+	top: 295px !important;
+	position: absolute !important;
+	left: 1813px;
+	width: 44px;
+	height: 45px;
+	background:url(skins/star_10.png);
+	background-size:cover;
+}
+
+
+#star_11 {
+	top: 295px !important;
+	position: absolute !important;
+	left: 1857px;
+	width: 44px;
+	height: 45px;
+	background:url(skins/star_11.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */

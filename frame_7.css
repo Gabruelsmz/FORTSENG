@@ -1,0 +1,413 @@
+/*
+	@name frame_7
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_7 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(0,76,100,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 100px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_inicio {
+	top: 29px;
+	left: 68px;
+	width: 112px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#perfil {
+	top: 29px;
+	left: 204px;
+	width: 111px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_login {
+	top: 29px;
+	left: 1586px;
+	width: 116px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_cadastro {
+	top: 29px;
+	left: 1726px;
+	width: 177px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 35px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_2 {
+	top: 1010px;
+	left: 0px;
+	width: 1920px;
+	height: 70px;
+	background:rgba(255,255,255,1);
+}
+
+
+#telefone {
+	top: 1030px;
+	left: 1530px;
+	width: 122px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#quem_somos_ {
+	top: 1033px;
+	left: 1713px;
+	width: 151px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#sac {
+	top: 1030px;
+	left: 1425px;
+	width: 69px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_205 {
+	top: 152px;
+	left: 74px;
+	width: 400px;
+	height: 700px;
+	-ms-border-radius: 80px;
+	-o-border-radius: 80px;
+	-moz-border-radius: 80px;
+	-webkit-border-radius: 80px;
+	border-radius: 80px;
+	border: 0.43px solid #000000;
+	-ms-box-shadow:6.38px 6.38px 21px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:6.38px 6.38px 21px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:6.38px 6.38px 21px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:6.38px 6.38px 21px 1px rgba(0,0,0,0.25);
+	box-shadow:6.38px 6.38px 21px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#nome____pedro_rocha_pinto_idade__24_anos_sexo__masculino_cpf__xxx_666_242_xx_cep_29100_89_celular___27__998952263_e_mai__pedrohallo_gmai_com {
+	top: 429px;
+	left: 78px;
+	width: 424.5px;
+	height: 414.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 23px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#nome____pedro_rocha_pinto_idade__24_anos_sexo__masculino_cpf__xxx_666_242_xx_cep_29100_89_celular___27__998952263_e_mai__pedrohallo_gmai_com_ek1 {
+	top: 429px;
+	left: 78px;
+	width: 424.5px;
+	height: 414.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 23px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#funcionario {
+	top: 388px;
+	left: 221px;
+	width: 165.5px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_5 {
+	top: 170px !important;
+	position: absolute !important;
+	left: 131px;
+	width: 284px;
+	height: 210px;
+	background:url(skins/image_5.png);
+	background-size:cover;
+}
+
+
+#configura__o_de_dados {
+	top: 827px;
+	left: 221px;
+	width: 194.5px;
+	height: 34.5px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 15px;
+	text-align: left;
+	color:#FF0000;
+}
+
+
+#rectangle_122 {
+	top: 170px;
+	left: 671px;
+	width: 500px;
+	height: 300px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(255,255,255,1);
+}
+
+
+#historico_de_a__es_dos_projetos_ {
+	top: 182px;
+	left: 677px;
+	width: 388px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#dia_19_06___13_55___projeto__aquecendo_vidas_dia_16_06___13_55___projeto__mcdia_feliz_dia_30_05___13_55___projeto__acacci_dia_05_05___13_55___projeto___dolo_social_dia_28_04___13_55___projeto__aquecendo_vidas_dia_08_04___13_55___projeto__aquecendo_vidas {
+	top: 216px;
+	left: 681px;
+	width: 370px;
+	height: 288px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#solicita__o__valida_solicita__o__valida_solicita__o__invalida_solicita__o__valida_solicita__o__valida_solicita__o__invalida {
+	top: 216px;
+	left: 1004px;
+	width: 176px;
+	height: 209px;
+	overflow: hidden;
+	font-family: Cambay;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_203 {
+	top: 555px;
+	left: 671px;
+	width: 600px;
+	height: 300px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(228.47,228.47,228.47,0.5) 52%, rgba(239.06,239.06,239.06,0.3) 100%);
+	background: -o-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(228.47,228.47,228.47,0.5) 52%, rgba(239.06,239.06,239.06,0.3) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(228.47,228.47,228.47,0.5) 52%, rgba(239.06,239.06,239.06,0.3) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(228.47,228.47,228.47,0.5) 52%, rgba(239.06,239.06,239.06,0.3) 100%);
+	background: linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(228.47,228.47,228.47,0.5) 52%, rgba(239.06,239.06,239.06,0.3) 100%);
+}
+
+
+#solicita__o_de_projetos_ {
+	top: 555px;
+	left: 675px;
+	width: 325px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ellipse_1 {
+	top: 599px !important;
+	position: absolute !important;
+	left: 675px;
+	width: 36px;
+	height: 35px;
+	background:url(skins/ellipse_1.png);
+	background-size:cover;
+}
+
+
+#mcdiafeliz_acabou_de_enviar_uma_solicita__o {
+	top: 609px;
+	left: 713px;
+	width: 341px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ellipse_2 {
+	top: 640px !important;
+	position: absolute !important;
+	left: 675px;
+	width: 36px;
+	height: 35px;
+	background:url(skins/ellipse_2.png);
+	background-size:cover;
+}
+
+
+#acacci_acabou_de_enviar_uma_solicita__o {
+	top: 649px;
+	left: 713px;
+	width: 386px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ellipse_3 {
+	top: 680px !important;
+	position: absolute !important;
+	left: 675px;
+	width: 36px;
+	height: 35px;
+	background:url(skins/ellipse_3.png);
+	background-size:cover;
+}
+
+
+#aquecendo_vidas_acabou_de_enviar_uma_solicita__o {
+	top: 689px;
+	left: 713px;
+	width: 291px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_10 {
+	top: 597px !important;
+	position: absolute !important;
+	left: 671px;
+	width: 600px;
+	height: 0px;
+	background:url(skins/line_10.png);
+	background-size:cover;
+}
+
+
+#line_7 {
+	top: 637px !important;
+	position: absolute !important;
+	left: 671px;
+	width: 600px;
+	height: 0px;
+	background:url(skins/line_7.png);
+	background-size:cover;
+}
+
+
+#line_8 {
+	top: 677px !important;
+	position: absolute !important;
+	left: 671px;
+	width: 600px;
+	height: 0px;
+	background:url(skins/line_8.png);
+	background-size:cover;
+}
+
+
+#line_9 {
+	top: 715px !important;
+	position: absolute !important;
+	left: 671px;
+	width: 600px;
+	height: 0px;
+	background:url(skins/line_9.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
